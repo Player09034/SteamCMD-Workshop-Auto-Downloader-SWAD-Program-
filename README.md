@@ -1,2 +1,23 @@
 # SteamCMD-Workshop-Auto-Downloader-SWAD-Program-
-programa sencillo para facilitar el uso de Steam Workshop mediante el sistema de descargas de steamCMD.
+Drograma sencillo para facilitar el uso de Steam Workshop mediante el sistema de descargas de steamCMD.
+
+##############################
+         COMO INSTALAR
+##############################
+
+1) Descargue y descomprima "SWAD Program.zip".
+2) Abra la carpeta "SWAD Program" y ejecute "SteamCMD AutoWorkshop.exe".
+3) Espere a que SteamCMD descargue sus archivos y que el programa inicie.
+
+Si el programa muestra un error, ejecute nuevamente "SteamCMD AutoWorkshop.exe". Si el error persiste, descargue nuevamente el programa.
+
+
+##############################
+           COMO USAR
+##############################
+
+1) Ejecute "SteamCMD AutoWorkshop.exe" y espere a que inicie.
+2) Entre al apartado de descargas mediante el boton "descargar de workshop"
+
+   
+3) 
