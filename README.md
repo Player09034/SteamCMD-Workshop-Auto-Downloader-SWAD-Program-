@@ -1,5 +1,5 @@
 # SteamCMD-Workshop-Auto-Downloader-SWAD-Program-
-Drograma sencillo para facilitar el uso de Steam Workshop mediante el sistema de descargas de steamCMD.
+Programa sencillo para facilitar el uso de Steam Workshop mediante el sistema de descargas de steamCMD.
 
 ##############################
          COMO INSTALAR
